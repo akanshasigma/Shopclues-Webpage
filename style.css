@@ -16,7 +16,7 @@
 .name {
     color: green;
 }
-/*
+
 @media only screen and (max-width:992px){
     img { width:100%;}
     #container {width:100%;}
@@ -33,4 +33,3 @@
         float : left;
         position: relative;}
 }
-*/
