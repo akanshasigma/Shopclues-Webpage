@@ -1,0 +1,36 @@
+#container {
+    text-align: center;
+    background-color: #e8e8e8;
+}
+
+.title {
+    width :100%;
+}
+
+.product {
+    width: 33.33%;
+    float : left;
+    position: relative;
+}
+
+.name {
+    color: green;
+}
+/*
+@media only screen and (max-width:992px){
+    img { width:100%;}
+    #container {width:100%;}
+    .product {
+        width: 33.33%;
+        float : left;
+        position: relative;}
+}
+@media only screen and (max-width:767px){
+    img { width:100%;}
+    #container {width:100%;}
+    .product {
+        width: 50%;
+        float : left;
+        position: relative;}
+}
+*/
